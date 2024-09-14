@@ -1,0 +1,67 @@
+CSO HW2
+
+Allen Boyce, Ahmad Aldousari, Jonathan Chang
+
+
+What is a computer system?
+A combination of hardware, software, and data that can be programmed to perform a variety of tasks
+
+What are some of the parts of a computer system?
+CPU, Memory, Input/Output System
+
+What is the difference between a compiled language and an intepreted language?
+Compiled: Source code is compiled into assembly code, which an assembler turns into machine code
+Interpreted: Line by line translation into machine language and execution
+
+Is C a compiled language?
+Yes
+
+Who invented the C language?
+Dennis Ritchie
+
+How long has C been in use?
+Over 50 years
+
+Is a compiler a translator?
+Yes
+
+Is an assembler a translator?
+Yes
+
+What is the command to list out the contents of a directory on a mac terminal window?
+ls
+
+What does the C function atof() do?
+Converts a string to a floating point number
+
+What are the bottom two layers of a computer system? Give a brief desciption of each.
+Hardware: The physical, tangible pieces that make up a computer
+Firmware: Microcode that uses hardware
+
+What are the three steps of the Von Neumann Architecture?
+Fetch, Decode, Execute
+
+What is the purpose of an ALU?
+Perform arithmetic and or logical operations
+
+What is a register?
+A small storage unit in a CPU that stores data and instructions for immediate use by the CPU
+
+What is one difference between Application software and System software?
+Application Software is written for computers Systems software is written for computers.
+
+Is the phrase cmp rdi, rsi machine language?
+No; It’s assembly, which is not machine language
+
+How many buses are included in the system bus?
+3
+
+What is the decimal value of 100101112?
+151
+
+What is the decimal value of 111111112?
+255
+
+What is the largest unsigned integer value that will fit into 16 bits?
+2^(16)-1: 65,535
+
