@@ -1,0 +1,36 @@
+
+
+Evaluation Criteria ~ homework01
+CMSI 2210 Section 02 Fall 2024
+=================================
+
+SAYHELLO.C
+   file exists          0/1 pt.
+   file compiles        0/1 pt.
+   program runs         0/1 pt.
+   prompts user         0/1 pt.
+   reads input          0/1 pt.
+   displays hello name  0/1 pt.
+SAYHELLO.ASM [optional challenge]
+   file exists
+   file assembles
+   programruns
+GENERAL
+   code style           0/1 pt.
+
+Total possible points 7
+
+========================================================
+
+TOTAL EARNED POINTS:
+   you earned 0/7 which is 0% which is not so great....
+
+========================================================
+SPECIFIC COMMENTS/FEEDBACK:
+
+Looks like you decided against doing homework01.
+
+You also didn't seem to get the message that the structure of the homework
+directory needs to be a certain way.  I got you started with that, but you
+will need to make sure the rest of the assignments are put into the proper
+order in your repository.
