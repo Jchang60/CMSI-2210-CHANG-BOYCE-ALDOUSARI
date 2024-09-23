@@ -1,0 +1,81 @@
+
+
+Evaluation Criteria ~ homework03
+CMSI 2210 Section 01 Spring 2024
+=================================
+
+CONVERSIONS
+   Question 01      1 pt.
+   Question 02      0 pt.  should be 64195
+   Question 03      1 pt.
+   Question 04      1 pt.
+   Question 05      1 pt.
+   Question 06      1 pt.
+   Question 07      1 pt.
+   Question 08      1 pt.
+   Question 09      1 pt.
+   Question 10      0 pt.  should be 0x1F40
+   Question 11      1 pt.
+   Question 12      1 pt.
+   Question 13      1 pt.
+   Question 14      1 pt.
+   Question 15      0 pt.  should be 48385
+   Question 16      0 pt.  should be -17151
+   Question 17      1 pt.
+   Question 18      1 pt.
+   Question 19      1 pt.
+   Question 20      1 pt.
+   Question 21      1 pt.
+   Question 22      1 pt.
+   Question 23      1 pt.
+   Question 24      1 pt.
+   Question 25      1 pt.
+   Question 26      1 pt.
+   Question 27      1 pt.
+   Question 28      1 pt.
+   Question 29      1 pt.
+   Question 30      0 pt.  should be 'y'; two neg added got pos result
+   Question 31      1 pt.
+   Question 32      1 pt.
+   Question 33      1 pt.
+   Question 34      1 pt.
+   Question 35      1 pt.
+   Question 36      1 pt.
+   Question 37      1 pt.
+   Question 38      1 pt.
+Extra Credit
+   Question 39      1 pt.
+   Question 40      0 pt.  should be 0x81FFFFFF representing -9.40395424605891433382306E-38
+   Question 41      1 pt.
+   Question 42      1 pt.
+   Question 43      0 pt.
+   Question 44      0 pt.
+   Question 45      0 pt.
+   Question 46      0 pt.
+
+Total normal points: 38
+Extra credit points:  8
+     Total possible: 46
+
+========================================================
+
+TOTAL EARNED POINTS:
+   You earned 33/38 which is 86.84%
+      plus 3 challenges making 89.84 which is an A-minus
+
+========================================================
+SPECIFIC COMMENTS/FEEDBACK:
+
+Nice job on this assignment!  Keep it going...
+
+Current evaluations:
+--------------------
+Homework01    0.00% of 5 points = 0.00 points
+Homework02  100.00% of 5 points = 5.00 points
+Homework03   86.84% of 5 points = 4.34 points
+                                ------
+                        total:    9.34 / 15.00 = 62.28%
+...which is probably not your best...
+
+Do well on the quizzes and remaining homeworks and you'll bring that up!
+
