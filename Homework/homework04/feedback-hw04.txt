@@ -1,0 +1,59 @@
+
+
+Evaluation Criteria ~ homework04
+CMSI 2210 Section 01 Fall 2024
+=================================
+
+LOGIC DESIGN
+   Logic Question 1a         10 pts.
+   Logic Question 1b          5 pts.
+   Logic Question 2          10 pts.
+
+REGISTER OPERATIONS
+   Register clear even        2 pts.
+   Register set last 3        2 pts.
+   Reg./8 remainder           2 pts.
+   Reg. set to -1             2 pts.
+   Reg. invert 2 MSBs         2 pts.
+   Register computation       2 pts.
+
+STANLEY/PENGUIN ASSEMBLY
+   Q4 - program 1a           11 pts.
+   Q5 - program 1b           11 pts.
+   Q6 - GCD prog.            11 pts.
+   Q7 - swap frag             5 pts.
+   Q8 - jmp to addr           5 pts.
+
+REGISTER INVESTIGATION
+   Q9a - high level expl.     5 pts.
+   Q9b - Why?                 5 pts.
+
+
+Total possible points        90 points
+
+========================================================
+
+TOTAL EARNED POINTS:
+   you earned 0.0/ 90.0 which is 0% which is not the greatest score...
+
+========================================================
+SPECIFIC COMMENTS/FEEDBACK:
+
+I can't evaluate what isn't there...  this assignment was due last week.
+
+sorry.
+
+========================================================
+SEMESTER SCORE SO FAR:
+
+   homework01 ~   0.00% of  5 points =  0.00 points
+   homework02 ~ 100.00% of  5 points =  5.00 points
+   homework03 ~  89.84% of  5 points =  4.49 points
+   homework04 ~   0.00% of  5 points =  0.00 points
+                                total:  9.49 out of 20.0 = 47.46%
+                                which is not the best...
+
+Please feel free to come see me during office hours to get some help.  The
+hours are published at the top of the website syllabus page.
+
+Don't give up!
