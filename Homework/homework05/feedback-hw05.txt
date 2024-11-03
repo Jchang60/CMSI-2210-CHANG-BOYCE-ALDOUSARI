@@ -1,0 +1,58 @@
+
+
+Evaluation Criteria ~ homework05
+CMSI 2210 Section 01 Fall 2024
+=================================
+
+dec2bin
+   compiles       [ 5 pts.]      5 points earned
+   error checks   [ 5 pts.]      5 points earned
+   runs  tests    [10 pts.]     10 points earned
+dec2hex
+   compiles       [ 5 pts.]      5 points earned
+   error checks   [ 5 pts.]      5 points earned
+   32-bit tests   [ 5 pts.]      5 points earned
+   64-bit tests   [ 5 pts.]      5 points earned
+timesTables
+   compiles       [ 5 pts.]      5 points earned
+   error checks   [ 5 pts.]      5 points earned
+   runs  tests    [10 pts.]      9 points earned
+holdit
+   compiles       [ 5 pts.]      5 points earned
+   runs tests     [15 pts.]     15 points earned
+wordcount
+   compiles       [ 5 pts.]      5 points earned
+   error checks   [ 5 pts.]      5 points earned
+   runs tests     [10 pts.]     10 points earned
+
+ Total possible ~ 100 points
+
+========================================================
+
+TOTAL EARNED POINTS:
+   you earned 99/100 which is 99.00% which is an A-plus
+
+========================================================
+SPECIFIC COMMENTS/FEEDBACK:
+
+Nice work!  Everything works the way it's supposed to work, with exception
+of timesTables which should dynamically adjust the cell width.  Selecting a
+value of '4' is good for most of the tests, but when there are four digits
+in the output, you need five spaces per cell.  This is a waste, though, if
+the biggest value is only two digits....
+
+========================================================
+SEMESTER SCORE SO FAR:
+
+   homework01 ~   0.00% of  5 points =  0.00 points
+   homework02 ~ 100.00% of  5 points =  5.00 points
+   homework03 ~  89.84% of  5 points =  4.49 points
+   homework04 ~   0.00% of  5 points =  0.00 points
+                                total:  9.49 out of 20.0 = 47.46%
+   homework05 ~  99.00% of 10 points =  9.90 points
+                                total: 19.39 out of 30.00 = 64.63%
+                                which is a D on the homework
+
+Your code looks VERY nice....
+
+Do well on this next homework and you'll pull the homework score up even more....
