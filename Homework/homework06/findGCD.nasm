@@ -8,9 +8,11 @@ section .data
     output_msg db "GCD: ", 0
 
 section .text
-global _start
+;global _start
+global _main
 
-_start:
+;_start:
+_main:
     ; Print prompt to stdout
     mov eax, 4              ; sys_write
     mov ebx, 1              ; file descriptor (stdout)

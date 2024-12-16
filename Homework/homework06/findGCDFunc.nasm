@@ -1,8 +1,10 @@
 ; findGCDFunc.nasm
-global findGCD
+;global findGCD
+global _findGCD
 
 section .text
-findGCD:
+;findGCD:
+_findGCD:
     ; Function parameters are passed in eax (first number) and ebx (second number)
 
     .start:

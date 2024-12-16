@@ -1,0 +1,92 @@
+
+
+Evaluation Criteria ~ homework06
+CMSI 2210 Section all Fall 2023
+=================================
+                                    score
+FINDGCD.NASM                        ------
+   nasm file assembles  [5 pts.]    3 pts.
+   nasm runs            [5 pts.]    5 pts.
+   output correct       [3 pts.]    3 pts.
+GCDFINDER
+   nasm file assembles  [5 pts.]    5 pts.
+   gcdFinder.c compiles [5 pts.]    5 pts.
+   link both files OK   [5 pts.]    5 pts.
+   nasm returns value   [5 pts.]    5 pts.
+   output correct       [3 pts.]    1 pts.
+PARITYGEN
+   nasm file assembles  [5 pts.]    1 pts.
+   nasm runs            [5 pts.]    5 pts.
+   output correct       [3 pts.]    2 pts.
+WHICHENDISUP
+   compiles no errors   [5 pts.]    5 pts.
+   runs no errors       [5 pts.]    5 pts.
+MAKENBOC.C
+   compiles no errors   [5 pts.]    5 pts.
+   uses previous func.  [5 pts.]    5 pts.
+   tester compiles      [5 pts.]    5 pts.
+   tester runs          [5 pts.]    5 pts.
+   output correct       [3 pts.]    3 pts.
+MAKENBO.NASM
+   nasm file assembles  [5 pts.]    5 pts.
+   link all files OK    [5 pts.]    5 pts.
+   calls "C" function   [5 pts.]    5 pts.
+   output correct       [3 pts.]    3 pts.
+
+Total possible points 100
+
+========================================================
+
+TOTAL EARNED POINTS:
+   you earned 100.00/100.00 which is 100% which is an A-plus
+
+========================================================
+SPECIFIC COMMENTS/FEEDBACK:
+
+problem 1 findGCD.nasm
+   when assembling, I got an error: invalid combination of opcode and operands
+      I think you need to have the "10" in a register.  The rest of the code
+      looks OK, but you could have used "printf()" and "scanf()" instead of
+      those pesky interrupt vectors...
+
+problem 2 findGCDfunc.nasm & gcdFinder.c
+   OOPS!  You didn't put the comments in a comment for the prototype.  I put
+      that in for you.  Now it builds but when I run it the result isn't
+      correct.  Running with 24 and 18 should produce "6" and returns "12"
+      for the first run and "4" for the next one.
+
+problem 3 paritygen.nasm
+   this started out with two assembly errors at lines 33 and 37.  You can see
+      I fixed them for you, along with the use of "_start" rather than "_main".
+      now it assembles, links and runs, but I get no output.  The code looks
+      correct, though.
+
+problem 4 whichEndIsUp.c
+   perfect!
+
+problem 5 makeNBOC.c & makeNBOCtest.c
+   I can't build this on Windows since it's using Mac 64 code.  However, it
+      appears like this is the correct code so full credit.
+
+problem 6 makeNBOC.c & makeNBON.nasm
+   I can't build this on Windows since it's using Mac 64 code.  However, it
+      appears like this is the correct code so full credit.
+
+========================================================
+SEMESTER HOMEWORK TOTALS:
+
+   homework01 ~   0.00% of  5 points =  0.00 points
+   homework02 ~ 100.00% of  5 points =  5.00 points
+   homework03 ~  89.84% of  5 points =  4.49 points
+   homework04 ~  95.56% of  5 points =  4.78 points
+   homework05 ~  99.00% of 10 points =  9.90 points
+   homework06 ~  91.00% of 15 points = 13.65 points
+                       semester total: 37.82 out of 45.00 = 84.04%
+                             which is a B on the total homework.
+
+Great work on this difficult assignment!  You were smart to use win32 in the
+programs instead of trying to use win64...
+
+It's been a great pleasure having you in class and I look forward to seeing
+you in future classes.  Good luck on the final!
+
